@@ -12,7 +12,9 @@ function AddPage() {
         </Form.Item>
 
         {/* Select */}
-        <Select options={[]}></Select>
+        <Form.Item label="Danh mục" name="category">
+          <Select placeholder="Chọn danh mục" options={[]} />
+        </Form.Item>
 
         {/* Submit button */}
         <Button type="primary" htmlType="submit">

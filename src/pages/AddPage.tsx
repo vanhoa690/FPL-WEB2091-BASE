@@ -7,8 +7,8 @@ function AddPage() {
 
       <Form layout="vertical" className="space-y-6">
         {/* Text input */}
-        <Form.Item label="Input">
-          <Input placeholder="input" />
+        <Form.Item label="Input" name="input">
+          <Input placeholder="Nhập thông tin" />
         </Form.Item>
 
         {/* Select */}

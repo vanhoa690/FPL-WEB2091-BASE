@@ -1,4 +1,10 @@
 {
-  "movies": [],
-  "users": []
+  "products": [],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$3cvf5QEZ67nFSzYpYScBiOcyghM9w/Y.2HoZs/9ZJC6qccHPv62Cq",
+      "id": 1
+    }
+  ]
 }
